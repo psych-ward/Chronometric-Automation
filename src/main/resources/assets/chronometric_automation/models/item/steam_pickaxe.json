@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "chronometric_automation:items/steam_pickaxe"
+  }
+}

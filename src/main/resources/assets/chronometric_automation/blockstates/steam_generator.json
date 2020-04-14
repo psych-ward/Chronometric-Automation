@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "chronometric_automation:block/steam_generator" }
+  }
+}

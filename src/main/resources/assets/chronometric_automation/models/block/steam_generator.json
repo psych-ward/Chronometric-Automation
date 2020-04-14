@@ -1,0 +1,8 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "top": "chronometric_automation:steam_generator_top",
+    "front": "chronometric_automation:steam_generator",
+    "side": "chronometric_automation:steam_generator_side"
+  }
+}
